@@ -1,0 +1,9 @@
+{
+  "name": "ngx-webuploader",
+  "dependencies": {
+  },
+  "peerDependencies": {
+    "@angular/core": "*",
+    "@angular/common": "*"
+  }
+}
