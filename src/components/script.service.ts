@@ -1,6 +1,6 @@
-import { WebUploaderConfig } from './webuploader.config';
 import { Injectable } from '@angular/core';
 import { Subject } from "rxjs/Subject";
+import { WebUploaderConfig } from './webuploader.config';
 
 declare const document: any;
 declare const window: any;
@@ -18,7 +18,7 @@ export class ScriptService {
     getChangeEmitter() {
         return this.emitter;
     }
-    
+
     load(debug:boolean) {
         if (this.loaded) return this;
 
@@ -45,7 +45,7 @@ export class ScriptService {
         } else {
             root = path.substr(0, path.lastIndexOf('/')) + '/';
         }
-        
+
         let promises: Promise<any>[] = [];
 
         needJZ && promises.push(this.loadScript(this.config.dependentLib));
