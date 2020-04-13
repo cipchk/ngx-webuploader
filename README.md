@@ -4,6 +4,7 @@ Angular for Baidu WebUploader
 
 [![NPM version](https://img.shields.io/npm/v/ngx-webuploader.svg)](https://www.npmjs.com/package/ngx-webuploader)
 [![Build Status](https://travis-ci.org/cipchk/ngx-webuploader.svg?branch=master)](https://travis-ci.org/cipchk/ngx-webuploader)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcipchk%2Fngx-webuploader.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcipchk%2Fngx-webuploader?ref=badge_shield)
 
 
 ## Demo
@@ -215,3 +216,6 @@ Thanks for understanding!
 ### License
 
 The MIT License (see the [LICENSE](https://github.com/cipchk/ngx-webuploader/blob/master/LICENSE) file for the full text)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcipchk%2Fngx-webuploader.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcipchk%2Fngx-webuploader?ref=badge_large)
